@@ -1,1 +1,29 @@
-# SQL-Introduction-with-Illustrations
+# 그림으로 배우는 SQL 입문
+
+<img src="https://www.youngjin.com/images/book_cover/9788931465518.jpg" height="350px" style="border: 2px solid grey;">
+
+[그림으로 배우는 SQL 입문 (영진닷컴)](https://blog.naver.com/ydot/222350840962)
+
+『그림으로 배우는 SQL 입문』는 데이터베이스를 처음 접하는 초보자들을 위해 반드시 알아야 할 SQL 필수 구문들을 이해하기 쉽게 소개하고 있습니다. 친절하고 자세한 설명, 만화와 일러스트를 통해 누구나 한눈에 SQL과 데이터베이스의 원리를 익힐 수 있도록 쉽게 구성된 것이 특징입니다. 데이터베이스 활용을 위해 필수적으로 알아야 할 SQL 구문들을 다양한 예문과 실행 결과를 통해 빠르게 익힐 수 있으며, 각 챕터 마지막 부분의 ‘연습문제’ 코너를 통해 그 장에서 배운 내용을 바로 복습해 볼 수 있습니다.
+
+**저자** 사카시타 유리  
+**역자** 김은철, 유세라  
+**발행일** 2021년 06월 30일  
+**크기** 152*225  
+**쪽수** 352쪽  
+**가격** 18,000원  
+**ISBN** 9788931465518  
+
+ 
+<br>
+
+## 💡실습용 예제 파일 & 소스 코드
+도서 실습에 필요한 예제 파일과 소스 코드는 챕터별로 구성하였으며, 깃허브 저장소뿐만 아니라 [영진닷컴 홈페이지](https://www.youngjin.com/reader/pds/pds.asp)에서도 다운로드받을 수 있습니다.  
+코드 작성 시에는 코드를 직접 입력하거나, 책에서 제공하는 소스 코드 파일을 사용하세요.
+
+<br>
+
+
+## 💡문의 및 정오표
+- [문의](mailto:Support@youngjin.com)
+- [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
