@@ -14,6 +14,14 @@
 **가격** 18,000원  
 **ISBN** 9788931465518  
 
+
+<br>
+
+## 💡이 책의 집필 환경
+OS: Microsoft windows 10 Home 64bit  
+MySQL Community Edition 8.0.23  
+
+
 <br>
 
 ## 💡문의 및 정오표
