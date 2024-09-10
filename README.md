@@ -17,7 +17,7 @@
 
 <br>
 
-## 💡이 책의 집필 환경
+## 💡동작 환경
 OS: Microsoft windows 10 Home 64bit  
 MySQL Community Edition 8.0.23  
 
